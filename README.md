@@ -55,6 +55,5 @@ I'm a passionate software engineer focused on innovation and technology. I have 
   <img src="https://github-readme-stats.vercel.app/api?username=Gui1949&show_icons=true&theme=dracula" alt="stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1949&layout=compact&theme=dracula" alt="langs" height="150" />
 </p>
----
 
 > “Technology moves the world.” — Steve Jobs
