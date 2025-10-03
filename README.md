@@ -17,7 +17,6 @@
 I'm a passionate software engineer focused on innovation and technology. I have experience working as a fullstack developer, building scalable, high-performance solutions. I love contributing to communities, joining tech events, and sharing knowledge.
 
 - 🎓 **Education:** Software Engineer - PUC Minas
-- 🏆 **Communities:** floripascript, floripajs
 - 🌱 **Currently learning:** Cloud, DevOps, software architecture
 
 ---
@@ -43,9 +42,9 @@ I'm a passionate software engineer focused on innovation and technology. I have 
 
 ## 🌟 Projects & Communities
 
-- **[floripascript](https://github.com/floripascript)** — Community focused on JavaScript and the web ecosystem.
-- **[floripajs](https://github.com/floripajs)** — Group of JS enthusiasts and developers from Floripa.
-- **[bardojeiz-springboot](https://github.com/bardojeiz-springboot)** — Backend project with Spring Boot.
+- **[floripascript](https://github.com/Gui1949/floripascript)** — A programming language that combines the simplicity and flexibility of interpreted languages with the robustness and performance of C++.
+- **[floripajs](https://github.com/Gui1949/floripajs)** — A web framework built with Node.js.
+- **[bardojeiz-springboot](https://github.com/Gui1949/bardojeiz-springboot)** — Backend project with Spring Boot.
 
 ---
 
